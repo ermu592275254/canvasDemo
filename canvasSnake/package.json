@@ -1,0 +1,11 @@
+{
+  "main": "snake.html", // 启动页面
+  "name": "snake",
+  "window": {
+    "toolbar": false, // 工具栏
+    "frame": true, // 框架
+    "width": 600,
+    "height": 650,
+    "resizable": false 
+  }
+}
